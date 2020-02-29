@@ -1,3 +1,11 @@
+# StyleGAN2 Colab Notebook
+
+Colab Notebook with scripts to train Stylegan2 models on new data from scratch or via transfer learning. Also contains scripts for generating images from trained models, and projecting images onto the generatable manifold.
+
+# Link to Colab Notebook : https://bit.ly/2PyVCsw <br>
+
+This notebook is an extension of Mikael Christensen's [notebook](https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH#scrollTo=4_s8h-ilzHQc), and includes his scripts for image generation and projection.
+
 ## StyleGAN2 &mdash; Official TensorFlow Implementation
 
 ![Teaser image](./docs/stylegan2-teaser-1024x256.png)
